@@ -1,13 +1,11 @@
-## Multivariate Statistical Analysis
+# Multivariate Statistical Analysis
 
 
-
-
-Principal Components Analysis (PCA), 
-Factor Analysis (FA), 
-Decomposition Analysis (AA), 
-Clustering Analysis (CA), 
-Multidimensional Scaling Analysis (CBO) 
+*Principal Components Analysis (PCA)
+*Factor Analysis (FA)
+*Decomposition Analysis (AA) 
+*Clustering Analysis (CA)
+*Multidimensional Scaling Analysis (CBO) 
 
 methods were included in this study. SPSS and Excel package programs were used for the analysis methods applied throughout the project.
 
