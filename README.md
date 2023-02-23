@@ -23,11 +23,13 @@ including the characteristics that women look for in men. By obtaining an 81*19 
 Each experimental unit was measured by 19 variables. There are no missing observations in the data set.
 
 
- # Definion of Variables
+ ## Definion of Variables
  
 *X1 : Having a university degree
+
 *X2 : High income holder/wealthy
-X3 : Being from a wealthy family
+
+*X3 : Being from a wealthy family
 X4 : Certain working hours
 X5 : Getting married for the first time
 X6 : Having an income-generating business
