@@ -25,8 +25,8 @@ Each experimental unit was measured by 19 variables. There are no missing observ
 
  # Definion of Variables
  
-X1 : Having a university degree
-X2 : High income holder/wealthy
+*X1 : Having a university degree
+*X2 : High income holder/wealthy
 X3 : Being from a wealthy family
 X4 : Certain working hours
 X5 : Getting married for the first time
