@@ -1,22 +1,22 @@
- ## Multivariate Statistical Analysis
+ # Multivariate Statistical Analysis
 
 
-*Principal Components Analysis (PCA)
+Principal Components Analysis (PCA)
 
-*Factor Analysis (FA)
+Factor Analysis (FA)
 
-*Decomposition Analysis (AA) 
+Decomposition Analysis (AA) 
 
-*Clustering Analysis (CA)
+Clustering Analysis (CA)
 
-*Multidimensional Scaling Analysis (CBO) 
+Multidimensional Scaling Analysis (CBO) 
 
 
 methods were included in this study. SPSS and Excel package programs were used for the analysis methods applied throughout the project.
 
 
 
-# Dataset Description
+## Dataset Description
 
 The data set was taken from the database of the Turkish Statistical Institute (TUIK).
 
