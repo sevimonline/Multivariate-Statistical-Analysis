@@ -3,8 +3,8 @@
 
 
 
-Principal Components Analysis (PCA), 
-Factor Analysis (FA), 
+###Principal Components Analysis (PCA), 
+###Factor Analysis (FA), 
 Decomposition Analysis (AA), 
 Clustering Analysis (CA), 
 Multidimensional Scaling Analysis (CBO) 
